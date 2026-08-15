@@ -74,6 +74,11 @@ Validation loss decreased throughout training.
 Only approximately **0.75% of the model parameters** were trained, demonstrating the efficiency of parameter-efficient fine-tuning.
 
 ---
+### 📉 Training and Validation Loss
+
+The following graph shows the training-loss fluctuations and the steady decrease in validation loss during the QLoRA fine-tuning process.
+
+![Training and Validation Loss](training_validation_loss.png)
 
 ## 🔄 Workflow
 
